@@ -123,4 +123,41 @@ img {
 
 article {
 width: 280px;
+font-family:sans-serif;
+}
+
+h4{
+  font-size: 15px;
+  margin: 20px 5px 5px 5px;
+}
+
+p{
+  font-size: 15px;
+  margin: 10px 5px 5px 5px;
+}
+
+.logo {
+  /*outline: 1px solid red;*/
+  width: 12px;
+  height: 12px;
+  padding: 8px 10px 10px 10px;
+  border-radius:50%;
+  background: #cc8aa5;
+  color: white;
+  margin: 0px;
+  }
+
+.datos {
+  display: block;
+}
+
+.negritas {
+  font-weight: bold;
+  font-size: 13px;
+  margin: 0;
+}
+
+.correo {
+  font-size: 13px;
+  margin: 0;
 }
